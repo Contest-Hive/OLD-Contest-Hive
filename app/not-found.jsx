@@ -16,7 +16,7 @@ const NotFound = () => {
             404
           </h1>
           <p className="mb-4 text-3xl font-bold tracking-tight text-white md:text-4xl">
-            Ow no! We can't find that page.
+            Oh no! We can't find that page.
           </p>
           <p className="mb-4 text-lg font-light text-gray-400">
             If you think this is a mistake, please contact us at{" "}
